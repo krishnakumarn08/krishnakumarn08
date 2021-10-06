@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnakumarn08
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Git
 - 💞️ I’m looking to collaborate on Python for networking
 - 📫 How to reach me krishnakumarn08@gmail.com
 
